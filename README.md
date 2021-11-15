@@ -2,12 +2,11 @@
 
 _Last updated: 2021/11/15_
 
-----
-
 A list of packages for working with Bandt-Pompe methodology and information theory descriptors.
 
-### Features table
------
+### Summary table
+
+----
 
 Here, we listed the main features and functionalities used in literature for data characterization and classification using Bandt-Pompe symbolization and information theory descriptors.
 
