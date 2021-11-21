@@ -74,4 +74,4 @@ Here, we listed the main features and functionalities used in literature for dat
 -----
 - **Permutation-Entropy** [[Github]](https://github.com/srk-srinivasan/Permutation-Entropy) [[Documentation]](https://kandi.openweaver.com/python/srk-srinivasan/Permutation-Entropy): Github repository with Python and R Codes for Computing ordinal pattern, permutation entropy and Jensen-Shannon Complexity.
 
-if you have any questions, suggestions or you want to report anything, feel free to reach me at: eduarda.chagas@dcc.ufmg.br.
+If you have any questions, suggestions or you want to report anything, feel free to reach me at: eduarda.chagas@dcc.ufmg.br.
