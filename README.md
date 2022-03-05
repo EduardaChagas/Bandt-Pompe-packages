@@ -1,4 +1,4 @@
-# Bandt-Pompe packages in Python or R
+# Bandt-Pompe packages in Python and R
 
 _Last updated: 2021/11/15_
 
